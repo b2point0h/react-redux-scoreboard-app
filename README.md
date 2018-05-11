@@ -1,6 +1,8 @@
 React - Redux Scoreboard Application
 ================================
 
+![alt text](https://raw.githubusercontent.com/b2point0h/react-redux-scoreboard-app/master/scoreboard.png)
+
 ## App Features
 
 - Simple application to track multiple players and their scores for a game
